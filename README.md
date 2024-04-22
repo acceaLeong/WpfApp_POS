@@ -1,5 +1,6 @@
 # WPF-POS-System
-
+admin
+abc123
 
 ## Contributors
 
